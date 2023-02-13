@@ -23,3 +23,5 @@ IsEasyToCustomable = True
 [else]
     [1] -> [1]
 [end]
+
+stack = eventos, informações, tabelas, funções.
