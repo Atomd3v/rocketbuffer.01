@@ -1,10 +1,10 @@
 # Easy Stats
 
 
->Resumo Easy Stats PT-BR:
+>Resumo Easy Stats PT-BR: <br>
 >o Easy Stats serve para dar um get em informações Basica Sem Precisar Escrever [getElementData] ou [getElementHealth].
 
->Easy Stats EN Summary:
+>Easy Stats EN Summary: <br>
 >Easy Stats serves to get basic information without having to write [getElementData] or [getElementHealth].
 
 --------------------------------------------------------------------------
@@ -25,7 +25,7 @@
 >tabela [] <br>
 >é a onde vai ficar as informações do player
 
-1- usar ES[informação que Você Deseja]
+1- usar ES[informação que Você Deseja] <br>
 2- enviar essa informção para o server ou client
 
 # se usar ES[informação]
