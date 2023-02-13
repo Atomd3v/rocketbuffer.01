@@ -22,7 +22,7 @@
 >Items Necessarios
 >tabela, informações do Player(vida, stamina, munições, skill, está em movimento? qual a Velocidade?)
 
->tabela []
+>tabela [] <br>
 >é a onde vai ficar as informações do player
 
 1- usar ES[informação que Você Deseja]
