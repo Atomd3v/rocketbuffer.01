@@ -1,9 +1,12 @@
-# Lesson #1 for rocket discover
+# Rocket Discover <br> Buffer 1
 
-<h1> Author: dotDev</h1>
+> this is a lesson for Rocket Discover(Buffer)
+<br>
 
-This Code was created for Rocket Discover as a way of studying the .lua programming of the MTA:SA platform
+> the system is a basic system, that when the player requests something to Easy Stats it will return the requested information
 
-<hr/>
+# Informations
 
-this code serves to return player information, such as life, stamina, ammo.
+> Author : .Dev
+> type : MTA:SA Script/util
+> language : .lua/.xml
